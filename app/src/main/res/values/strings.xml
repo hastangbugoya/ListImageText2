@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ListImageText2</string>
+    <string name="title_activity_listdata">ListdataActivity</string>
+    <string name="ProductDetailImage">Hold product image</string>
+    <string name="ProductDetailName">Hold product name</string>
+    <string name="ProductDetailDesc">Hold product description</string>
+</resources>
